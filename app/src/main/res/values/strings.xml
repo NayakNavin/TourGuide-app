@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Bangalore</string>
+
+    <!-- Strings for the navigation drawer menu-->
+    <string name="nav_header_image">Image for navigation pane header</string>
+    <string name="menu_section_places">Places</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_park">Parks</string>
+    <string name="menu_title_restaurants">Restaurants</string>
+    <string name="menu_title_historical_places">Historical Places</string>
+    <string name="menu_title_malls">Malls</string>
+    <string name="location_picture">location picture</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings for the Home list-->
+    <string name="home_bangalore">logo</string>
+    <string name="home_bangalore_2">bangalore lake</string>
+
+    <string name="home_bangalore_description_p1">
+        Bangalore, officially known as Bengaluru, is the capital of the Indian state of Karnataka. It has a population of over ten million, making it a megacity and the third most populous city and fifth most populous urban agglomeration in India. It is located in southern India on the Deccan Plateau. Its elevation is over 900 m (3,000 ft) above sea level, the highest of India\'s major cities.
+        \n\nA succession of South Indian dynasties, the Western Gangas, the Cholas and the Hoysalas, ruled the present region of Bangalore until in 1537 CE, Kempé Gowdā – a feudal ruler under the Vijayanagara Empire – established a mud fort considered to be the foundation of modern Bangalore. In 1638, the Marāthās conquered and ruled Bangalore for almost 50 years, after which the Mughals captured and sold the city to the Mysore Kingdom of the Wadiyar dynasty. It was captured by the British after victory in the Fourth Anglo-Mysore War (1799), who returned administrative control of the city to the Maharaja of Mysore. The old city developed in the dominions of the Maharaja of Mysore and was made capital of the Princely State of Mysore, which existed as a nominally sovereign entity of the British Raj.
+        \n\nIn 1809, the British shifted their cantonment to Bangalore, outside the old city, and a town grew up around it, which was governed as part of British India. Following India\'s independence in 1947, Bangalore became the capital of Mysore State, and remained capital when the new Indian state of Karnataka was formed in 1956. The two urban settlements of Bangalore – city and cantonment – which had developed as independent entities merged into a single urban centre in 1949. The existing Kannada name, Bengaluru, was declared the official name of the city in 2006.
+        \n\nBangalore is sometimes referred to as the "Silicon Valley of India" (or "IT capital of India") because of its role as the nation\'s leading information technology (IT) exporter. Indian technological organisations ISRO, Infosys, Wipro and HAL are headquartered in the city. A demographically diverse city, Bangalore is the second fastest-growing major metropolis in India. It is home to many educational and research institutions in India, such as Indian Institute of Science (IISc), Indian Institute of Management (Bangalore) (IIMB), International Institute of Information Technology, Bangalore (IIITB), National Institute of Fashion Technology, Bangalore, National Institute of Design, Bangalore (NID R&amp;D Campus), National Law School of India University (NLSIU) and National Institute of Mental Health and Neurosciences (NIMHANS). Numerous state-owned aerospace and defence organisations, such as Bharat Electronics, Hindustan Aeronautics and National Aerospace Laboratories are located in the city. The city also houses the Kannada film industry.</string>
+    <string name="home_bangalore_description_p2">The name "Bangalore" represents an anglicised version of the Kannada language name, "Bengaluru" ಬೆಂಗಳೂರು. It is the name of a village near Kodegehalli and was copied by Kempegowda to the city of Bangalore. The earliest reference to the name "Bengalūru" was found in a ninth-century Western Ganga Dynasty stone inscription on a "vīra gallu" (ವೀರಗಲ್ಲು) (literally, "hero stone", a rock edict extolling the virtues of a warrior). In this inscription found in Begur, "Bengaluru" is referred to as a place in which a battle was fought in 890 CE. It states that the place was part of the Ganga Kingdom until 1004 and was known as "Bengaval-uru", the "City of Guards" in Halegannada (Old Kannada).
+        \n\nAn apocryphal story recounts that the 12th century Hoysala king Veera Ballala II, while on a hunting expedition, lost his way in the forest. Tired and hungry, he came across a poor old woman who served him boiled beans. The grateful king named the place "benda-kaal-uru" (literally, "town of boiled beans"), which eventually evolved into "Bengaluru". Suryanath Kamath has put forward an explanation of a possible floral origin of the name, being derived from benga, the Kannada term for Pterocarpus marsupium (also known as the Indian Kino Tree), a species of dry and moist deciduous trees, that grew abundantly in the region.
+        \n\nOn 11 December 2005, the Government of Karnataka announced that it had accepted a proposal by Jnanpith Award winner U. R. Ananthamurthy to rename Bangalore to Bengaluru. On 27 September 2006, the Bruhat Bangalore Mahanagara Palike (BBMP) passed a resolution to implement the proposed name change. The government of Karnataka accepted the proposal, and it was decided to officially implement the name change from 1 November 2006. The Union government approved this request, along with name changes for 11 other Karnataka cities, in October 2014, whence Bangalore was renamed to "Bengaluru" on 1 November 2014.</string>
+
+
+    <!-- Strings for the Historical Places list-->
+    <string name="historical_name_1">Halasuru Someshwara Temple</string>
+    <string name="historical_description_1">Located in the suburbs of Halasuru (Ulsoor) in Bangalore, Halasuru Someshwara Temple is dedicated to the Hindu deity Shiva. Dating back to the Chola period, the temple is the oldest in all of Bangalore. Built in around the 12th and the 13th centuries by the Hoysalas, the temple is now managed and maintained by the Endowment Department of the Karnataka government. However, major modifications and additions to the temple were made during the Vijayanagar empire. Besides the several other notable features of the temple, the most fascinating are the elaborate sculptures of Ravana holding the Kailash Parvat to please Lord Shiva, Goddess Durga slaying Mahishasura (a demon), scenes from the wedding of Lord Shiva and Parvati, images of the Saptarishis etc.
+        \n\nConstructed in the Vijayanagar style of architecture, the shrine has notable beautiful carvings on the walls and placid interiors. Other than the main temple, the premises are dotted with smaller shrines of other deities including Kamakshamma, Arunachaleswara, Bhimeswara, Nanjundeswara and Panchalingeswara. The temple is one of the most popular places of attraction in Bangalore and is especially flocked by a significant number of tourists at the time of Mahashivrathri. The devotees believe that the Hindu gods Brahma and Vishnu also worshipped in this temple.</string>
+
+    <string name="historical_name_2">Bangalore Palace</string>
+    <string name="historical_description_2">An epitome of great architecture and beauty, The Majestic Bangalore Palace preserves in it the spice of old regal opulence. Currently the central attraction in Bangalore, the palace was built in the year 1878. Chamarajendra Wadiyar\'s British Guardians bought the original property in 1873 from the principal of Bangalore Central High School, Rev, J Garret, from his funds. The palace is extraordinarily vast and spread across 45,000 square feet. A mixture of Tudor and Scottish Gothic architecture have resulted into the grand palace that we see today.The wooden structure of the palace along with the beautiful carvings both inside and outside showcases the royal culture in different ways.
+        \n\nApart from being a major tourist destination, the palace is a host to different cultural events, rock shows, and marriages. As per beliefs, King Chamarajendra Wadiyar drew his inspiration for building the palace from the Windsor Castle of London. The granite seats decorated with fluorescent blue ceramic tiles on the ground floor, a fairy tale Ballroom, the famous painter Raja Ravi Varma\'s paintings, vine-covered walls, and the Durbar Hall on the first floor come together to form the prepossessing Bangalore Palace.
+        \n\nA visit to the palace gives you a chance to witness the elegant and lavish splendour of one of the most powerful dynasties of South India. An audio tape is available inside the Palace, both in Hindi and English, to help the people having language issues, understand its history better.</string>
+    <string name="historical_name_3">ISKCON Temple</string>
+    <string name="historical_description_3">
+        Located in Rajajinagar area of Bangalore, ISKCON Temple is a revered shrine dedicated to Lord Krishna. The temple under the guidance of Madhu Pandit Dasa and was inaugurated in the year 1997 by Shankar Dayal Sharma. Apart from a religious shrine, ISKCON temple is a cultural complex accommodating dedicated deities of Sri Sri Radha Krishnachandra, Sri Sri Krishna Balarama, Sri Sri Nitai Gauranga, Sri Srinivasa Govinda and Sri Prahlada Narasimha.
+        \n\nISKCON Temple is known for its activities of engagement involving ardent devotees of Lord Krishna. The temple enrols members for life and arranges programs in their community centres for Krishna consciousness and awareness of the Lord. The temple community also organises songs and recitals admiring and praying to Krishna in public processions. Lectures and prayer services are regularly conducted here as well. In addition, the ISKCON temple community conducts a wide variety of activities directed towards rediscovering spirituality on an individual level as well as creating a spirit of harmony in the community.</string>
+    <string name="historical_name_4">Vidhana Soudha</string>
+    <string name="historical_description_4">Described by Pandit Jawaharlal Nehru as \'a temple dedicated to the nation\', Vidhana Soudha houses the State Legislature and the Secretariat of Karnataka and is one of the most popular attractions in the lively and colourful city of Bengaluru. It also proudly boasts the title of being the largest state legislative building in the country. With four entrances in all four directions and four floors above the ground level and one below it, we surely don\'t doubt the title. Popularly known as the \'Taj Mahal of South India\', it is counted as one of the most magnificent buildings in the city and is sure to impress the onlooker with its sophisticated poise and glorified grandiose. The entire monument is illuminated on Sundays and public holidays and is a sight for sore eyes.
+        \n\nThen Prime Minister Sri Pandit Jawaharlal Nehru along with then Chief Minister K.C. Reddy laid down the first brick of this establishment on 13 July 1951 and initiated the construction of a monument that symbolizes the legislative sovereignty of the people of the country. Its construction took a good five years and it was finally inaugurated in 1956 to become the largest legislative building in India. Constructed under the shadow of Sri. Kengal Hanumanthaiya\'s extensive knowledge and unmatched expertise, the Vidhana Soudha stands 150 feet tall and boasts of an elegant and truly exquisite Neo-Dravidian style of architecture. Looking at this magnanimous structure and staring into its unflinching prowess enlightens you of how the marvel is worth every single penny, and more, spent to build it.</string>
+
+
+    <!-- Strings for the Parks list-->
+    <string name="park_name_1">Cubbon Park</string>
+    <string name="park_description_1">Spread over an area of 300 acres, Cubbon Park in the city of Bangalore is a major sightseeing attraction rich in green foliage. It is a green belt region of the city and is an ideal place for nature lovers and those seeking a calm atmosphere. Having been laid down by Lord Cubbon, the park is named so in his honour. It is home to more than 6,000 trees that support a vibrant ecosystem. In addition to being a natural sightseeing destination, some of the major structures of the city such as the Attara Kacheri, Cubbon Park Museum and Sheshadri Iyer Memorial Park are also situated here. Another famous attraction in the Cubbon Park is The Bangalore Aquarium, which is the second largest aquarium in India.
+        \n\nCubbon Park was originally spread over 100 acres, which was later extended to 300 acres. First established in the year 1870 by Sri John Meade (acting Commissioner of Mysore), Cubbon Park has a long history. Major General Richard Sankey (Chief Engineer of the State) conceived this park in honour of Sri John Meade. Initially, the park was called "Meade\'s Park" and later came to be known as the Cubbon Park. Since the introduction of the park, it was made and improved in many ways.
+        \n\nIn the year 1927, the park was officially renamed as "Sri. Chamarajendra Park" to mark the Silver Jubilee of Sri. Krishnaraja Wodeyar\'s rule in Mysore State. At present, the Cubbon Park is under the control of the Department of Horticulture. The Deputy Director of Horticulture (Cubbon Park) is responsible for the administration and maintenance of the park.</string>
+    <string name="park_address_1">Kasturba Road, Behind High Court of Karnataka, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka - 560001</string>
+    <string name="park_opening_hours_1">6:00 AM - 6:00 PM
+        \nClosed on Mondays and second Tuesdays of Every month.
+        \nStrictly for morning walkers: 6:00 AM - 8:00 AM</string>
+    <string name="park_name_2">Lal Bagh</string>
+    <string name="park_description_2">Lalbagh Botanical Garden is located in Bangalore and is nationally and internationally renowned centre for botanical artwork, scientific study of plants and also conservation of plants. A haven for all nature lovers, Lal Bagh covers an area 240 acres in the heart of the city and has nearly 1,854 species of plants. It was commissioned by Hyder Ali in 1760 and completed by his son Tipu Sultan. The garden features rare plants of French, Persian and Afghani origin and has attained the status of a Government Botanical Garden. The Lal Bagh Rock which is over 3000 million years old is found here and is a major tourist attraction.
+        \n\nThis botanical garden, a delight for photographers, also consists of the famous glass house where an annual flower show is held every year and is also a home to an aquarium and a lake. Tipu Sultan brought in imported trees and plants from countries all over the world and planted them here and today, Lalbagh Botanical Garden has one of the world\'s largest collection of rare plants. In addition to being rich in foliage, this garden also houses a number of birds such as Myna, Parakeets, Crows, Brahminy Kite, Pond Heron, Common Egret and Purple Moor Hen.</string>
+    <string name="park_address_2">Mavalli, Bengaluru, Karnataka - 560004</string>
+    <string name="park_opening_hours_2">6:00 AM - 7:00 PM</string>
+    <string name="park_name_3">Wonder La Water Park</string>
+    <string name="park_description_3">Wonderla is said to be the best amusement park in the city (and also one of the best in the country), and attracts all those looking for a rush of adrenaline. While it is most famous for the high-thrill dry rides, it also features some relaxed, fun rides, hence providing something for every visitor.
+        \n\nSituated on the outskirts of Bangalore on the Mysore road, Wonderla is a great amusement + water park, featuring over 60 rides. It\'s quite popular for its collection of "High-thrill rides", one of the main talking points of the park. It also features a newly constructed, India\'s first "reverse looping roller coaster" - a coaster which you do in both directions, once straight and once in reverse order. The water park is fantastic as well, with a variety of slides ranging from thrilling to the leisurely.</string>
+    <string name="park_address_3">28th Km, Mysore Road, Bengaluru, Karnataka - 562109</string>
+    <string name="park_opening_hours_3">Weekdays: 11:00 AM - 6:00 PM,
+        \nWeekends: 11:00 AM - 7:00 PM</string>
+    <string name="park_name_4">Bannerghatta National Park</string>
+    <string name="park_description_4">Located 22 km away from Bangalore, the Bannerghatta National Park is an asylum for a large variety of flora and fauna. Spread over a massive area of around 104.27 sq. km, this national park was established in the year 1971. The park itself has a number of establishments within its confines, which includes the country\'s first butterfly park as well. Other attractions here are ten Reserve Forests of Anekal Range of the Bangalore Forest Division, an aquarium, a zoo, Children\'s park, Crocodile Farm, Snake Park, Prehistoric Animals\' Park and a museum. What\'s more, you can get up close and personal with the wondrous wildlife here by the means of a jungle safari, which is a popular activity to pursue here.
+        \n\nNature lovers and photographers are surely in for a treat in the Bannerghatta National Park. The assorted collection of wildlife here includes elephants, leopards, jackal, fox, wild boar, sloth bear, India gazelle, spotted deer, porcupine, Asiatic Lion, Royal Bengal Tiger, monitor lizard and cobras. Rediscover the botanist in you as you inspect and learn more about the sandalwood, neem, tamarind, bamboo, eucalyptus and many more trees that find a place here. The various establishments here such as the zoo and the aquarium provide a number of experiences with the endearing wildlife here. Blessed with the bounty of nature, the Bannerghatta National Park is a unique learning experience for both adults and children alike. In addition to being a natural retreat, the park is also an unlikely destination for a wide variety of adventure sports such as trekking and hiking. All in all, Bannerghatta is a wonderful rendezvous with nature in its most unadulterated form.</string>
+    <string name="park_address_4">Bannerghatta Main Rd, Bannerughatta, Bengaluru, Karnataka - 560083</string>
+    <string name="park_opening_hours_4">Butterfly park and boating: 9:30 AM - 5:00 PM,
+        \nGrand Safari: 10:00 AM - 4:30 PM,
+        \nClosed on Tuesdays</string>
+
+
+    <!-- Strings for the Malls list-->
+    <string name="mall_name_1">UB City Mall</string>
+    <string name="mall_description_1">Located in the CBD (Central Business District), this luxury mall is the one stop destination for all your high-end needs. Assimilation of four towers as a whole, the mall is spread in a mind-boggling area of 13 acres. The place takes care of all your exclusive needs, whether it is shopping at some high-end store, or dining, or even taking a Spa after a hectic day of work, this place has it all.
+        \n\nThe place is home to all the luxury beauty and fashion brands from all around the globe, where LouisVuittonn, Estee Lauder, Rolex, Burberry and Canali are to name a few. The place covers all your needs, ranging from accessories, clothes, bags, shoes of exclusive jewellery by renowned brands from the world. Various events are also timely organised for all the visitors to experience the best of everything.</string>
+    <string name="mall_address_1">24, Vittal Mallya Road, Bengaluru, Karnataka - 560001</string>
+    <string name="mall_phone_1">+91 80 0071 1488</string>
+    <string name="mall_opening_hours_1">Store Timings: 11:00 AM - 8:00 PM,
+        \nRestaurants on Weekdays: 11:00 AM - 11:30 PM,
+        \nRestaurants on Friday-Saturday: 11:00 AM - 01:00 AM</string>
+    <string name="mall_name_2">1 MG-Road Mall</string>
+    <string name="mall_description_2">1MG ROAD is an iconic, new age, downtown high street shopping centre, located in the heart of Bangalore, on Trinity Circle, MG Road. Located inside walking distance from some of the city’s best 5-star hotels such as Taj Residency, The Oberoi, Park Hotel &amp; Hotel Ista, it is positioned as a premium, high energy, urban retail centre for the affluent Bangalorean and visitors to the city.
+        \n\nThe design is unique, in that it offers its occupiers huge, highly visible storefronts, straightforward access and great branding possibilities. Slated to open in 2011, 1MG ROAD is getting developed by GCorp Ltd. and is conceived, operated &amp; managed by STARCENTRES, India\’s leading Buying Centre firm co-founded by Shilpa Malik &amp; Pranay Sinha.</string>
+    <string name="mall_address_2">1\/2, Swami Vivekananda Road Opp. Taj Viventa, Trinity Circle, Ulsoor, Bengaluru, Karnataka - 560001</string>
+    <string name="mall_phone_2">+91 80 2208 6573</string>
+    <string name="mall_opening_hours_2">10 AM – 11 PM</string>
+    <string name="mall_name_3">VR Bengaluru</string>
+    <string name="mall_description_3">VR Bengaluru, popularly known as Black Box On Whitefield Road, is a mixed-use retail development in India, situated in Whitefield, Bangalore. Its gross floor area is 600,000 square feet (56,000 m2). In addition to the retail arcade, the compound hosts a hotel, a multiplex with the largest Gold Class in India along with an IMAX, commercial spaces and customisable collaborative working spaces for start-ups and entrepreneurs.
+        \n\nThe centre consists of The Hive - a co-working space, The Waverly - Hotel &amp; Residences and the SkyDeck - an activated rooftop with a temperature controlled pool, a jogging track and an open-air LED screen. South India\'s first H&amp;M store was launched here in 2016.
+        \n\nThis center is owned, developed and operated by Virtuous Retail South Asia Pte Ltd. VR Bengaluru is part of a mixed-use development which includes residential spaces, a retail arcade and customisable collaborative working spaces. The Black Box on Whitefield Road, VR Bengaluru is touted as a "first-of-its-kind community centric integrated lifestyle destination of the city". The centre is home to an assortment of brands, a nine screen multiplex including a purpose built IMAX which is the biggest in Bangalore, apart from India\'s largest Gold Class, several pubs, cafes and restaurants spread across the centre, an upscale food court and several fitness &amp; wellness options.
+        \n\nThe open landscaped events space at VR Bengaluru, known as "Garden City" regularly hosts community events such as music festivals, farmers’ &amp; artisan markets, activities for children, etc.</string>
+    <string name="mall_address_3">Whitefield Rd, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka - 560048</string>
+    <string name="mall_phone_3">+91 80 4652 4111</string>
+    <string name="mall_opening_hours_3">10:30 AM – 10 PM</string>
+    <string name="mall_name_4">Orion Mall</string>
+    <string name="mall_description_4">Orion Mall is a shopping mall at Brigade Gateway Enclave in Bangalore, Karnataka, India developed by Brigade Group (Developer). Orion mall with a total shopping area of 8 million sq.ft. is the 3rd largest mall in Bangalore.
+        \n\nOrion Mall is part of a premium integrated enclave known as Brigade Gateway which houses World Trade Center, Sheraton Grand Hotel, Columbia Asia Hospital apart from the mall in its premises. Orion mall has 4 floors of retail space which includes shopping zones, multiplex, Food &amp; Dining including lakeside cafes and bowling &amp; gaming zones.</string>
+    <string name="mall_address_4">Brigade Gateway, 26/1 Dr. Rajkumar Road, Malleshwaram West, Bengaluru, Karnataka - 560055</string>
+    <string name="mall_phone_4">+91 80 6728 2222</string>
+    <string name="mall_opening_hours_4">10 AM – 10 PM</string>
+
+
+    <!-- Strings for the Restaurants list-->
+    <string name="restaurant_name_1">Srinathji\'s - The Taste Of Nectar</string>
+    <string name="restaurant_description_1">Relaxed mini chain dishing up choices from around India, China, Mexico, Lebanon, Thailand and Italy.</string>
+    <string name="restaurant_address_1">No 462, Sree, Krishna Temple Rd, Indira Nagar 1st Stage, Bengaluru, Karnataka - 560038</string>
+    <string name="restaurant_phone_1">+91 81 9770 8800</string>
+    <string name="restaurant_opening_hours_1">11:30 AM – 10:30 PM</string>
+    <string name="restaurant_name_2">Sattvam</string>
+    <string name="restaurant_description_2">Vegetarian a la carte and buffet Indian dishes inspired by wholesome yogic and Sattvic principles.</string>
+    <string name="restaurant_address_2">35, Opposite Shell Petrol Bunk, Sankey Rd, Sadashiva Nagar, Bengaluru, Karnataka - 560080</string>
+    <string name="restaurant_phone_2">+91 80 2360 8000</string>
+    <string name="restaurant_opening_hours_2">12 PM – 3:30 PM,
+        \n7 PM – 11 PM</string>
+    <string name="restaurant_name_3">Vidyarthi Bhavan</string>
+    <string name="restaurant_description_3">Vidyarthi Bhavan is a vegetarian restaurant in Gandhi Bazaar, Basavanagudi, South Bangalore. It was founded in 1943. This restaurant is noted for its crispy, "Masale Dose", especially the "Sagu Masale Dose". It is one of the symbols and landmarks of old Bangalore.</string>
+    <string name="restaurant_address_3">32, Gandhi Bazaar Main Road, Basavanagudi, Bengaluru, Karnataka - 560004</string>
+    <string name="restaurant_phone_3">+91 80 2667 7588</string>
+    <string name="restaurant_opening_hours_3">Mon - Thu 6:30 AM – 11:30 AM &amp; 2 PM – 8 PM,
+    \nFriday - Closed,
+    \nSat - Sun 6:30 AM – 12 PM &amp; 2:30 PM – 8 PM</string>
+    <string name="restaurant_name_4">Halli Mane</string>
+    <string name="restaurant_description_4">South Indian dishes whipped up in rustic, airy surrounds with traditional decor accents.</string>
+    <string name="restaurant_address_4">3rd Cross, Sampige Road, Malleshwaram, Bengaluru, Karnataka - 560003</string>
+    <string name="restaurant_phone_4">+91 80 4113 9523</string>
+    <string name="restaurant_opening_hours_4">7 AM – 10:30 PM</string>
+</resources>
